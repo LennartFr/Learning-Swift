@@ -8,6 +8,13 @@
 <li><a href="https://swift.org/download/#latest-development-snapshots">Latest Development Snapshots</a>
 </ol>
 
+Swift at IBM
+<ol>
+<li><a href="https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/">IBM Swift Sandbox</a>
+<li><a href="http://www.ibm.com/mobilefirst/us/en/mobilefirst-for-ios/">IBM MobileFirst for iOS</a>
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Swift and BlueMix</a>
+</ol>
+
 #Swift Meetups
 <ol>
 <li><a href="http://www.meetup.com/swift-language/">Swift Language User Group (San Francisco)</a>
