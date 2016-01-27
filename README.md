@@ -24,3 +24,6 @@
 <li><a href="http://www.meetup.com/swift-language/">Swift Language User Group (San Francisco)</a>
 <li><a href="http://swift-language.meetup.com/cities/us/ca/palo_alto/">Silicon Valley Swift Programming Group (Palo Alto)</a>
 </ol>
+
+##Swift videos
+1 https://www.youtube.com/watch?v=I0Meyb4ejN4
