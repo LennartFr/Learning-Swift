@@ -26,4 +26,5 @@
 </ol>
 
 ##Swift videos
-1 https://www.youtube.com/watch?v=I0Meyb4ejN4
+1. https://www.youtube.com/watch?v=I0Meyb4ejN4
+2. https://www.youtube.com/watch?v=GqSxUw_ahyY
