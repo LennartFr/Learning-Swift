@@ -25,6 +25,8 @@
 <li><a href="http://swift-language.meetup.com/cities/us/ca/palo_alto/">Silicon Valley Swift Programming Group (Palo Alto)</a>
 </ol>
 
-##Swift videos
+##Swift videos and courses
 
 1. https://www.youtube.com/watch?v=GqSxUw_ahyY  Swift Programming Tutorial For Beginners | The Complete Tutorial to Learn Swift 
+2. https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 | Intro to iOS App Development with Swift. Make Your First iPhone App
+
