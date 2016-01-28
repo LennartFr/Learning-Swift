@@ -3,19 +3,15 @@
 ## Swift resources
 1. <a href="https://github.com/apple/swift">Swift on GitHub</a>
 2. [Xcode](https://developer.apple.com/xcode/)
-
-## More Swift resources
-<ol>
-<li><a href="https://developer.ibm.com/swift/">Swift @ IBM</a>
-<li><a href="https://github.com/IBM-MIL">IBM Mobile Innovation Lab</a>
-<li><a href="https://swift.org/">Swift.org</a>
-<li><a href="https://swift.org/documentation/">Documentation</a>
-<li><a href="https://swift.org/source-code/#compiler-and-standard-library">Swift Source code</a>
-<li><a href="https://swift.org/download/#latest-development-snapshots">Latest Development Snapshots</a>
-</ol>
+3. <a href="https://swift.org/">Swift.org</a>
+4. <a href="https://swift.org/documentation/">Documentation</a>
+5. <a href="https://swift.org/source-code/#compiler-and-standard-library">Swift Source code</a>
+6. <a href="https://swift.org/download/#latest-development-snapshots">Latest Development Snapshots</a>
 
 ##Swift at IBM
 <ol>
+<li><a href="https://developer.ibm.com/swift/">Swift @ IBM</a>
+<li><a href="https://github.com/IBM-MIL">IBM Mobile Innovation Lab</a>
 <li><a href="https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/">IBM Swift Sandbox</a>
 <li><a href="http://www.ibm.com/mobilefirst/us/en/mobilefirst-for-ios/">IBM MobileFirst for iOS</a>
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Swift and BlueMix</a>
