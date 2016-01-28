@@ -31,4 +31,5 @@
 
 1. https://www.youtube.com/watch?v=GqSxUw_ahyY  Swift Programming Tutorial For Beginners | The Complete Tutorial to Learn Swift 
 2. https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 | Intro to iOS App Development with Swift. Make Your First iPhone App
+3. https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1 developer.apple.com: Jump right in
 
