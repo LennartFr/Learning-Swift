@@ -2,6 +2,8 @@
 
 ## Swift resources
 <a href="https://github.com/apple/swift">Swift on GitHub</a>
+[Xcode](https://developer.apple.com/xcode/)
+
 
 <ol>
 <li><a href="https://developer.ibm.com/swift/">Swift @ IBM</a>
