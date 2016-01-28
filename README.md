@@ -4,7 +4,7 @@
 1. <a href="https://github.com/apple/swift">Swift on GitHub</a>
 2. [Xcode](https://developer.apple.com/xcode/)
 
-
+## More Swift resources
 <ol>
 <li><a href="https://developer.ibm.com/swift/">Swift @ IBM</a>
 <li><a href="https://github.com/IBM-MIL">IBM Mobile Innovation Lab</a>
@@ -31,5 +31,6 @@
 
 1. https://www.youtube.com/watch?v=GqSxUw_ahyY  Swift Programming Tutorial For Beginners | The Complete Tutorial to Learn Swift 
 2. https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 | Intro to iOS App Development with Swift. Make Your First iPhone App
-3. https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1 developer.apple.com: Jump right in
+3. https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH4. SW1 developer.apple.com: Jump right in
+5. https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1 Build a Basic UI
 
