@@ -1,8 +1,8 @@
 # Learning Swift
 
 ## Swift resources
-<a href="https://github.com/apple/swift">Swift on GitHub</a>
-[Xcode](https://developer.apple.com/xcode/)
+1. <a href="https://github.com/apple/swift">Swift on GitHub</a>
+2. [Xcode](https://developer.apple.com/xcode/)
 
 
 <ol>
